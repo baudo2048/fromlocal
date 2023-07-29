@@ -1,0 +1,19 @@
+{
+  "name": "fromlocal",
+  "version": "1.0.0",
+  "description": "Test create npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baudo2048/fromlocal.git"
+  },
+  "author": "joe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baudo2048/fromlocal/issues"
+  },
+  "homepage": "https://github.com/baudo2048/fromlocal#readme"
+}
