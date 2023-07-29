@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baudo2048/fromlocal.git"
+    "url": "https://github.com/baudo2048/fromlocal.git"
   },
   "author": "joe",
   "license": "ISC",
